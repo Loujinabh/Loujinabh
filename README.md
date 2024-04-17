@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Loujinabh
-- 👀 I’m interested in UI and UX, and anything python
+- 👀 I’m interested in data analytics, and anything python
 - 🌱 I’m studying CS.
 
 <!---
